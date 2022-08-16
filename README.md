@@ -1,5 +1,5 @@
 # ZeeChatRoom
-ZeeChatRoom是一个基于websocket,nodejs,uniapp技术栈的简易聊天室，可以进群简单的群聊和单聊的功能。
+ZeeChatRoom是一个基于websocket,nodejs,uniapp技术栈的简易聊天室，可以进行简单的群聊和单聊的功能。
 
 - 登陆后在聊天大厅可以进行群聊
 - 查看当前在线用户
